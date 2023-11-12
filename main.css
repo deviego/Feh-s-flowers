@@ -52,11 +52,12 @@ body {
 }
 
 .night-text{
-  margin-top: 200px;
+  margin-top: 150px;
   display: flex;
   align-items: center;
   flex-direction: column;
   font-size: 24px;
+  text-align: start;
 }
 
 
